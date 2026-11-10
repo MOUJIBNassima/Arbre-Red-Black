@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1794337958 source:c:\users\fozyr store\downloads\c++\arbre_red_black\benchmark.cpp
+	"Benchmark.h"
+	"RedBlackTree.h"
+	<iostream>
+	<iomanip>
+	<vector>
+	<map>
+	<algorithm>
+	<chrono>
+
+1794337975 c:\users\fozyr store\downloads\c++\arbre_red_black\benchmark.h
+	<random>
+
+1794337964 c:\users\fozyr store\downloads\c++\arbre_red_black\redblacktree.h
+	"Node.h"
+
+1794337986 c:\users\fozyr store\downloads\c++\arbre_red_black\node.h
+
+1794337970 source:c:\users\fozyr store\downloads\c++\arbre_red_black\redblacktree.cpp
+	"RedBlackTree.h"
+
+1794338028 source:c:\users\fozyr store\downloads\c++\arbre_red_black\main.cpp
+	<iostream>
+	<vector>
+	<random>
+	"Benchmark.h"
+
