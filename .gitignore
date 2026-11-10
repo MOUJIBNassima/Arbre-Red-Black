@@ -1,8 +1,0 @@
-*.exe
-*.o
-*.aux
-*.log
-*.out
-*.toc
-bin/
-obj/
